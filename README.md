@@ -6,7 +6,7 @@ Password strength and breach checker with stronger password suggestions.
 
 PassCheck is a free, browser-based tool that tells you how strong a password really is, whether it has appeared in a known data breach, and how to make it stronger without starting from scratch.
 
-**Live demo:** https://vikaskumar1705.github.io/PassCheck/
+**Live demo:** https://vikaskumar1705.github.io/PassCheck/PassCheck.html
 
 ## The problem
 
